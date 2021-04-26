@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Otevírací doba"
     url: /posts/
   - title: "Categories"
     url: /categories/
