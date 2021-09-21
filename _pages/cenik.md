@@ -2,7 +2,7 @@
 permalink: /cenik/
 title: "Ceník"
 ---
-
+<br/>
 # Katalog dohodnutých služeb poskytovaných na žádost pacienta hrazených přímo v rámci ambulantní péče
 _Jedná se o péči poskytovanou lékařem nad rámec péče hrazené z veřejného zdravotního pojištění._
 
