@@ -12,19 +12,6 @@ title: "Kontakt"
         color: inherit;
         text-decoration: none; 
     }
-    #mapouter{
-        overflow: hidden;
-        padding-bottom: 56.25%;
-        position: relative;
-        height: 0;
-    }
-    #mapouter iframe{
-        left: 0;
-        top: 0;
-        height: 100%;
-        width: 100%;
-        position: absolute;
-    }   
   </style>
 </head>
 
@@ -45,9 +32,9 @@ Náměstí 47, 517 24 Borohrádek
 71203613
 
 ## O nás
-Sestra: Jana Hájková
+**Sestra:** Jana Hájková
 
-Lékař: MUDr. Helena Štefanová
+**Lékař:** MUDr. Helena Štefanová
 
 - 1993 - promoce na LF UK v Hradci Králové
 - 1997 - atestace v oboru vnitřní lékařství
