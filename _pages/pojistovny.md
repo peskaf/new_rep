@@ -2,5 +2,7 @@
 permalink: /pojistovny/
 title: "Smluvní pojištovny"
 ---
+<br/>
+# Smluvní pojišťovny
 
-Toto jsou naše smluvní pojišťovny.
+![image-title-here](/assets/to/image.jpg){:class="img-responsive"}
