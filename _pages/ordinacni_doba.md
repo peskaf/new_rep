@@ -10,7 +10,7 @@ permalink: /ordinacni_doba/
    table, th, td {
        border: 0;
        font-weight: bold;
-       font-size: 25px;
+       font-size: 1em;
        width: 70%;
     }
     td:nth-child(1) {text-align:left;}
