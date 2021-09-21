@@ -49,8 +49,11 @@ plugins:
   - jemoji
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 footer:
+
+repository: peskaf/peskaf.github.io
 
 defaults:
   # _pages

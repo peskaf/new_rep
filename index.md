@@ -5,7 +5,19 @@
 layout: splash
 classes: wide
 ---
-&nbsp;
+
+<head>
+  <style type="text/css">
+   #my-br {
+       opacity: 0;
+    }
+    h1 {
+        color: #800080;
+    }
+  </style>
+</head>
+
+<div id="my-br">spacer</div>
 # Aktuální informace
 
 ## ORDINAČNÍ HODINY:
@@ -28,11 +40,3 @@ Pro urychlení administrativy se nám prosím ozvěte telefonicky nebo mailem p�
 Očkujeme nyní jednorázovou vakcínou Johnson and Johnson firmy Janssen, je určena pro pacienty nad 18 let věku, dosud proti
 covidu neočkované, mající zdravotní pojištění v ČR. Pokud máte o očkování zájem, napište nám na helenastefanova@seznam.cz,
 nejste-li u nás registrovaní, pak uveďte i rodné číslo, číslo pojišťovny, bydliště, telefon, případně emailovou adresu.
-
-### Nadpis 3
-
-#### Nadpis 4
-
-##### Nadpis 5
-
-###### Nadpis 6
