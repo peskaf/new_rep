@@ -2,6 +2,7 @@
 title: "Ordinační doba"
 permalink: /ordinacni_doba/
 ---
+<br/>
 # Ordinační a provozní doba
 
 |   | Bez objednání  |  Objednaní |
