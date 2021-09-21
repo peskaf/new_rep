@@ -12,6 +12,7 @@ permalink: /ordinacni_doba/
        border: 0;
        font-weight: bold;
        font-size: 1em;
+       width: 100%;
     }
     td:nth-child(1) {text-align:left;}
     td:nth-child(2) {text-align:center;}
