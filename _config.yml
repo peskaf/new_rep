@@ -51,6 +51,9 @@ plugins:
 
 footer:
 
+feed:
+  disable: true
+
 defaults:
   # _pages
   - scope:
