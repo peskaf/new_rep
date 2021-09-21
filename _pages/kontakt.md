@@ -12,24 +12,50 @@ title: "Kontakt"
         color: inherit;
         text-decoration: none; 
     }
+    img {
+      padding: 10px;
+      flex: 50%;
+      width: 50%;
+    }
+    #con {
+      flex: 50%;
+      padding: 10px;
+    }
+    #container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    @media (max-width: 600px) {
+    #con {
+    flex: 100%;
+  }
+  img {
+    width: 100%;
+    flex: 100%;
+  }
+}
   </style>
 </head>
 
 <div id="my-br">spacer</div>
 # Kontakt
-
-### Telefonní číslo
+<div id="container">
+<div id="con">
+<h3>Telefonní číslo</h3>
 <a href="tel:+420-494-934-000">+420 494 934 000</a><br>
 <a href="tel:+420-736-646-023">+420 736 646 023</a>
 
-### E-mail
+<h3>E-mail</h3>
 <a href="mailto:helena.stefanova@seznam.cz">helena.stefanova@seznam.cz</a>
 
-### Adresa
+<h3>Adresa</h3>
 Náměstí 47, 517 24 Borohrádek
 
-### IČO
+<h3>IČO</h3>
 71203613
+</div>
+<img src="/assets/images/office.svg" alt="doctor" class="doctor">
+</div>
 
 ## O nás
 **Sestra:** Jana Hájková
@@ -38,4 +64,5 @@ Náměstí 47, 517 24 Borohrádek
 
 - 1993 - promoce na LF UK v Hradci Králové
 - 1997 - atestace v oboru vnitřní lékařství
-- 2003 - atestace v oboru všeobecné praktické lékařství 
+- 2003 - atestace v oboru všeobecné praktické lékařství
+
