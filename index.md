@@ -10,10 +10,10 @@ classes: wide
 
 ## ORDINAČNÍ HODINY:
 
-V pátek 17.9. bude v ordinaci pouze sestra Dana, zástup pro akutní pacienty zajištěn.
+V pátek 17.9. bude v ordinaci pouze sestra, zástup pro akutní pacienty zajištěn.
 
-V týdnu od 20.9. ordinace uzavřena, zástup pro akutní pacienty v odbornosti praktický lékař zajištěn u dr. Kašparové - nutno se telefonicky
-domluvit na čase vyšetření na tel. č. 468 000 346 - ordinační doba po, út, st, pá 8-10, čt 7-9 hodin.
+V týdnu od 20.9. ordinace uzavřena, zástup pro akutní pacienty v odbornosti praktický lékař zajištěn u dr. Novákové - nutno se telefonicky
+domluvit na čase vyšetření na tel. č. 464 201 455 - ordinační doba po, út, st, pá 8-10, čt 7-9 hodin.
 
 ## OČKOVÁNÍ PROTI COVIDU:
 
@@ -26,5 +26,5 @@ domluvit na čase vyšetření na tel. č. 468 000 346 - ordinační doba po, ú
 Pro urychlení administrativy se nám prosím ozvěte telefonicky nebo mailem předem, děkujeme! 
 
 Očkujeme nyní jednorázovou vakcínou Johnson and Johnson firmy Janssen, je určena pro pacienty nad 18 let věku, dosud proti
-covidu neočkované, mající zdravotní pojištění v ČR. Pokud máte o očkování zájem, napište nám na mudrlenkadejdarova@centrum.cz,
+covidu neočkované, mající zdravotní pojištění v ČR. Pokud máte o očkování zájem, napište nám na helenastefanova@seznam.cz,
 nejste-li u nás registrovaní, pak uveďte i rodné číslo, číslo pojišťovny, bydliště, telefon, případně emailovou adresu.
