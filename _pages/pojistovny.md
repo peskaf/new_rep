@@ -5,4 +5,4 @@ title: "Smluvní pojištovny"
 <br/>
 # Smluvní pojišťovny
 
-![image-title-here](/assets/to/image.jpg){:class="img-responsive"}
+![PojiŠťovna](/assets/images/pojišťovny/OZP.png){:class="img-responsive"}
