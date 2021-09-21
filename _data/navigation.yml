@@ -1,9 +1,9 @@
 main:
-  - title: "Otevírací doba"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Ordinační doba"
+    url: /ordinacni_doba/
+  - title: "Ceník"
+    url: /cenik/
+  - title: "Smluvní pojišťovny"
+    url: /pojistovny/
+  - title: "Kontakt"
+    url: /kontakt/
