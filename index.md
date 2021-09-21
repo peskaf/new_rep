@@ -5,7 +5,7 @@
 layout: splash
 classes: wide
 ---
-&nbsp
+&nbsp;
 # Aktuální informace
 
 ## ORDINAČNÍ HODINY:
