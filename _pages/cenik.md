@@ -38,7 +38,7 @@ _Jedná se o péči poskytovanou lékařem nad rámec péče hrazené z veřejn�
  <tr><td>8.</td><td>Vstupní a výstupní prohlídka na žádost zaměstnavatele.</td><td>400 Kč</td></tr>
  <tr><td>9.</td><td>Opakovaná preventivní prohlídka.</td><td>300 Kč</td></tr>
  <tr><td>10.</td><td>Posouzení bodového ohodnocení bolestného a ztížení společenského uplatnění.</td><td>200-500 Kč</td></tr>
- <tr><td>11.</td><td>Zpráva lékaře o úrazu pro komerční pojištovnu.</td><td>300 Kč</td></tr>
+ <tr><td>11.</td><td>Zpráva lékaře o úrazu pro komerční pojištovnu.</td><td>300 Kč</td></tr>
  <tr><td>12.</td><td>Nepovinné očkování / žloutenka, encefalitida, event. chřipka.</td><td>100 Kč</td></tr>
  <tr><td>13.</td><td>Celkové vyšetření před plastickou operací, interrupcí apod.</td><td>400 Kč</td></tr>
  <tr><td>14.</td><td>Vyšetření stolice na okultní krvácení na vlastní žádost.</td><td>150 Kč</td></tr>
