@@ -1,4 +1,6 @@
 main:
+  - title: "Aktuality"
+    url: /
   - title: "Ordinační doba"
     url: /ordinacni_doba/
   - title: "Ceník"
