@@ -79,7 +79,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-
+layout: splash
 category_archive:
   type: liquid
   path: /categories/
