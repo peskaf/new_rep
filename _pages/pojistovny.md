@@ -7,7 +7,7 @@ title: "Smluvní pojištovny"
 
 <a href="https://www.ozp.cz/" target="_blank">
   <img src="/assets/images/pojišťovny/OZP.png" alt="OZP" width="600"/>
-<a/> |  <a href="https://www.vozp.cz/" target="_blank">
+<a/> | <a href="https://www.vozp.cz/" target="_blank">
   <img src="/assets/images/pojišťovny/VOZP.png" alt="OZP" width="600"/>
 <a/>
 
