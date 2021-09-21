@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
   <style type="text/css">
    #my-br {
        opacity: 0;
