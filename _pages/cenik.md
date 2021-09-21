@@ -10,7 +10,7 @@ title: "Ceník"
    table, th, td {
        border: 0;
        font-weight: bold;
-       font-size: 20px;
+       font-size: 1em;
     }
   </style>
 </head>
