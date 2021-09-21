@@ -5,12 +5,12 @@ title: "Smluvní pojištovny"
 <br/>
 # Smluvní pojišťovny
 
-<a href="https://www.ozp.cz/">
-  <img src="/assets/images/pojišťovny/OZP.png" alt="OZP" width="200"/>
+<a href="https://www.ozp.cz/" target="_blank">
+  <img src="/assets/images/pojišťovny/OZP.png" alt="OZP" width="600"/>
 <a/>
   
-<a href="https://www.vozp.cz/">
-  <img src="/assets/images/pojišťovny/VOZP.png" alt="OZP" style="width:200px;height:86px;"/>
+<a href="https://www.vozp.cz/" target="_blank">
+  <img src="/assets/images/pojišťovny/VOZP.png" alt="OZP" style="width:600px;height:200px;"/>
 <a/>
 
 
