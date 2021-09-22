@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Praktická lékařka pro dospělé - Borohrádek.
 minimal_mistakes_skin: contrast
 search: false
-
+locale: cs_CZ
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -62,4 +62,5 @@ defaults:
       type: pages
     values:
       layout: splash
+      locale: cs_CZ
       author_profile: false
