@@ -8,6 +8,7 @@ classes: wide
 
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
   <style type="text/css">
    #my-br {
        opacity: 0;
