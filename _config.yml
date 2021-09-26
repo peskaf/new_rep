@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MUDr. Helena Štefanová
-email: helenastefanova@seznam.cz
+email: helena.stefanova@seznam.cz
 
 description: >- # this means to ignore newlines until "baseurl:"
   Praktická lékařka pro dospělé - Borohrádek.
 minimal_mistakes_skin: contrast
 search: false
+url: "https://helenastefanova.cz"
 locale: cs_CZ
 # Build settings
 markdown: kramdown
