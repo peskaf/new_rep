@@ -49,6 +49,6 @@ classes: wide
 
 ## OČKOVÁNÍ PROTI COVIDU:
 
-Od 1.11.2021 zahajujeme přeočkování 3. dávkami proti Covid 19 (Pfizer i Moderna).
+Od 1.11.2021 zahajujeme přeočkování 3. dávkami proti Covid 19 (Pfizer i Moderna). 
 
 Zájemci o přeočkování i zájemci o první očkování kontaktujte nás telefonem 494 934 000.
