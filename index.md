@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 classes: wide
 ---
@@ -20,6 +17,34 @@ classes: wide
 </head>
 
 <div id="my-br">spacer</div>
+
+<!--    Stručný manuál:
+
+        Nadpis - napsat ## před text nadpisu, např.: ## NADPIS
+        Podnadpis - napsat ### před text podnadpisu, např.: ### Podnadpis
+        ! Pozn.: před a po nadpisu/podnadpisu by měla být prázdná řádka !
+
+        Tučné písmo - napsat okolo textu, který má být tučně, dvě hvězdičky z každé strany, např: **tučný text**
+        Kurzíva - napsat okolo textu, který má být kurzívou, jednu hvězdičku z každé strany, např: *text kurzívou*
+        Tučné písmo a kurzíva dohromady - napsat okolo textu, který má být kurzívou a tučně, tři hvězdičku z každé strany, např: ***tučný text kurzívou***
+
+        Odstavce a nový řádek - nový odstavec (případně přejdete na novou řádku) tak, že mezi text, který nemá být na stejné řádce, vložíte prázdný řádek
+
+        Uspořádaný seznam - příklad: 1. první položka
+                                     2. druhá položka
+                                     3. třetí položka
+                                     4. čtvrtá položka
+
+        Neuspořádaný seznam - příklad: - první položka
+                                       - druhá položka
+                                       - třetí položka
+                                       - čtvrtá položka
+  
+        Odkaz na web - formát: [text odkazu](adresa odkazu), příklad: [MUDr. Helena Štefanová](www.helenastefanova.cz)
+
+        !! Upravovat až text, který se nachází pod touto nápovědou, tedy od nadpisu # Aktuální informace níže !!
+-->
+
 # Aktuální informace
 
 ## OČKOVÁNÍ PROTI COVIDU:
