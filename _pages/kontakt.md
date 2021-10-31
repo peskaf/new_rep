@@ -43,7 +43,6 @@ title: "Kontakt"
 <div id="con">
 <h3>Telefonní číslo</h3>
 <a href="tel:+420-494-934-000">+420 494 934 000</a><br>
-<a href="tel:+420-736-646-023">+420 736 646 023</a>
 
 <h3>E-mail</h3>
 <a href="mailto:helena.stefanova@seznam.cz">helena.stefanova@seznam.cz</a>
