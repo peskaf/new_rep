@@ -43,6 +43,7 @@ classes: wide
         Odkaz na web - formát: [text odkazu](adresa odkazu), příklad: [MUDr. Helena Štefanová](www.helenastefanova.cz)
 
         !! Upravovat až text, který se nachází pod touto nápovědou, tedy od nadpisu # Aktuální informace níže !!
+        Po ukončení úprav stiskněte tačítko "Commit changes", které je ve spodní části stránky.
 -->
 
 # Aktuální informace
